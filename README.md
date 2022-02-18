@@ -15,8 +15,16 @@ Algoritma greedy yang dibuat adalah algoritma greedy by speed dengan berusaha me
 4. Manfaatkan power up tweet, emp, dan oil untuk mengganggu lawan pada saat yang tepat
 
 ## Requirement program dan instalasi
-
+- Requirement program
+   - Menggunakan Java, dengan versi minimal Java 8
+   - Menggunakan Maven pada IntelIJ jika ingin melakukan build bot
+- Menjalankan permainan
+   - Bot dapat dimainkan dengan menggunakan file .jar sesuai dengan ketentuan pada repositori "Overdrive": https://github.com/EntelectChallenge/2020-Overdrive
+   - Jika digunakan settingan default pada repositori tersebut, maka file .jar dapat dipindahkan ke direktori ../stater-bots/java/target
+   - Kemudian, jalankan run.bat untuk melawan reference bot yang ditentukan
 ## Langkah compile atau build program
+   - Bot dapat dibuild dengan menjalankan script Maven yang dapat ditemukan pada source code
+   - Script Maven dapat dijalankan menggunakan IDE IntelIJ: https://www.jetbrains.com/idea/
 
 ## Author
 
